@@ -1,4 +1,4 @@
-<h1 align="center"><img src="FeizoyWave.png" draggable="false">Salam ( Peace be Upon You )</h1>
+<h1 align="center"><img src="FeizoyWave.png">Salam ( Peace be Upon You )</h1>
 <b>Nice to meet you. My name is Ibrahim Taybeh.</b>
 <ul>
     <li>I am 16 years old. Male.</li>
@@ -9,5 +9,5 @@
             href="https://customtkinter.tomschimansky.com/">CustomTkinter</a> with GUI development for my apps.</li>
 </ul>
 <h2 align="center">Tech Stack</h2>
-<p align="center"><img src="tech.svg" draggable="false"></p>
+<p align="center"><img src="tech.svg"></p>
 <h6 align="center">Contact me: <a href="mailto:NisTroAti@proton.me">NisTroAti@proton.me</a></h6>
