@@ -1,4 +1,4 @@
-<h1 align="center"><img src="FeizoyWave.png">Salam ( Peace be Upon You )</h1>
+<h1 align="center">Salam ( Peace be Upon You )</h1>
 <b>Nice to meet you.</b>
 <ul>
     <li>I am 17 years old. Male.</li>
