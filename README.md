@@ -1,7 +1,7 @@
 <h1 align="center">Salam ( Peace be Upon You )</h1>
 <b>Nice to meet you.</b>
 <ul>
-    <li>I am 17 years old. Male.</li>
+    <li>I am 18 years old. Male.</li>
     <li>Living in Saudi Arabia. 🇸🇦</li>
     <li>Can partially speak (and understand) Arabic.</li>
     <li>Likes to make 3D characters using Blender.</li>
